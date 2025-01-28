@@ -18,11 +18,26 @@
     <version>4.13.2</version>
     <scope>test</scope>
 </dependency>
+
+<!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
+<dependency>
+    <groupId>io.github.bonigarcia</groupId>
+    <artifactId>webdrivermanager</artifactId>
+    <version>5.9.2</version>
+</dependency>
+
 <!-- https://mvnrepository.com/artifact/com.googlecode/google-api-translate-java -->
 <dependency>
     <groupId>com.googlecode</groupId>
     <artifactId>google-api-translate-java</artifactId>
     <version>0.92</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/com.google.cloud/google-cloud-translate -->
+<dependency>
+    <groupId>com.google.cloud</groupId>
+    <artifactId>google-cloud-translate</artifactId>
+    <version>2.56.0</version>
 </dependency>
 <dependency> 
 	<groupId>org.json</groupId> 
