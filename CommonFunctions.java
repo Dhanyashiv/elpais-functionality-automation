@@ -25,7 +25,7 @@ public class CommonFunctions extends BaseTest implements CommonFunc {
      }
 	//Google translator function 
      public String translate(String text) {
-      String key = "AIzaSyDkxFruPC58b0S9D07bB9Y3FJ2quEFLEAI";
+      String key = "not using the key here ";
  	//Initialize translation service
      @SuppressWarnings("deprecation")
 	Translate translate = TranslateOptions.newBuilder().setApiKey(key).build().getService();
