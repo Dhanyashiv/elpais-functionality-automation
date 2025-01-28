@@ -14,3 +14,8 @@ Print the translated headers.
 5. Analyze Translated Headers:
 From the translated headers, identify any words that are repeated more than twice across all headers combined.
 Print each repeated word along with the count of its occurrences.
+
+
+TODOS
+Parallel Execution Implementaion
+To implement BrowserStack 
